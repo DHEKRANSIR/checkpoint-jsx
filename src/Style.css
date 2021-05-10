@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  .title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  1.7em;
+    font-style: italic;
+  }
+  .red{
+      color: red;
+  }
+  .App .bg{
+  overflow: hidden;
+  display: flex;
+  justify-content:space-between;
+  background-color:whitesmoke;
+  overflow:hidden;
+  }
+  .bg img{
+    margin:20px ;
+    box-shadow:10px 10px 5px steelblue;
+  }
+  .App video{
+   margin-top: 10px;
+   box-shadow:10px 10px 5px gray;
+  }
+  .vid{
+    width: auto;
+    height: 280px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:whitesmoke;
+  overflow:hidden;
+  }
+  
